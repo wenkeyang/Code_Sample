@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MyTest" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="MyTest" />
+    <module name="Code_Sample" />
+    <shortenClasspath name="MANIFEST" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
